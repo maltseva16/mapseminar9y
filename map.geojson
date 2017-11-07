@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.3507308959960938,
+              48.85545400732256
+            ],
+            [
+              2.3507308959960938,
+              48.85545400732256
+            ],
+            [
+              2.3507308959960938,
+              48.85545400732256
+            ],
+            [
+              2.3507308959960938,
+              48.85545400732256
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800080",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "Приезд Наполеона в Париж.": "6 декабря 1812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3500442504882812,
+          48.85726111835348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "square-stroked",
+        "Наполеон вступил в Смоленск.": "27 октября"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.048492431640625,
+          54.79553916639435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d7e01d",
+        "marker-size": "medium",
+        "marker-symbol": "rocket",
+        "Февраль 1815 года ": "Февраль 1815 года - Бегство Наполеона с Эльбы."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0813751220703125,
+          47.641277744992976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1b8f8a",
+        "stroke-width": 3.1,
+        "stroke-opacity": 0.4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.08007812499999,
+            55.30413773740139
+          ],
+          [
+            2.4609375,
+            49.468124067331644
+          ],
+          [
+            7.163085937499999,
+            48.19538740833338
+          ]
+        ]
+      }
+    }
+  ]
+}
